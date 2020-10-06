@@ -24,6 +24,6 @@ No Activity tracked this Week
 </p>
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=sarvesh10491&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=sarvesh10491.sarvesh10491)
+<a href="https://komarev.com/ghpvc/?username=sarvesh10491&color=brightgreen" target="_blank"></a>
+<a href="https://visitor-badge.glitch.me/badge?page_id=sarvesh10491.sarvesh10491" target="_blank"></a>
 </p>
