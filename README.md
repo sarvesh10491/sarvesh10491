@@ -23,7 +23,6 @@ No Activity tracked this Week
 <a href="https://instagram.com/sarvesh10491" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" alt="sarvesh10491" height="50" width="50" /></a>
 </p>
 
-<p align="center">
-<a href="https://komarev.com/ghpvc/?username=sarvesh10491&color=brightgreen" target="_blank"></a>
-<a href="https://visitor-badge.glitch.me/badge?page_id=sarvesh10491.sarvesh10491" target="_blank"></a>
-</p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sarvesh10491&&style=flat-square" align="center" />
+</div>  
