@@ -9,12 +9,12 @@ No Activity tracked this Week
 
 
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="C" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/master/images/c.jpg"></code>
+  <code><img title="C++" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/master/images/c++.jpg"></code>
+  <code><img title="Python" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/master/images/python.jpg"></code>
+  <code><img title="Java" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/master/images/java.jpg"></code>
+  <code><img height="20" src="https://github.com/sarvesh10491/sarvesh10491/blob/master/images/linux.jpg"></code>
+  <code><img height="20" src="https://github.com/sarvesh10491/sarvesh10491/blob/master/images/android.jpg"></code>
 </p>
 
 <p align="center">
