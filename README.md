@@ -16,6 +16,6 @@ No Activity tracked this Week
 
 <p align="center">
 <a href="https://twitter.com/sarvesh_spartan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sarvesh_spartan" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/sarvesh10491" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarvesh10491" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/sarvesh-patil-751252a6" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarvesh-patil-751252a6" height="20" width="20" /></a>
 <a href="https://instagram.com/sarvesh10491" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sarvesh10491" height="20" width="20" /></a>
 </p>
