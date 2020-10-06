@@ -13,8 +13,8 @@ No Activity tracked this Week
   <code><img title="C++" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/c++.jpg"></code>
   <code><img title="Python" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/python.jpg"></code>
   <code><img title="Java" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/java.jpg"></code>
-  <code><img height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/linux.jpg"></code>
-  <code><img height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/android.jpg"></code>
+  <code><img title="linux" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/linux.jpg"></code>
+  <code><img title="android" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/android.jpg"></code>
 </p>
 
 <p align="center">
