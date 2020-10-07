@@ -26,5 +26,4 @@ No Activity tracked this Week
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sarvesh10491&&style=flat-square" align="center" />
 </div>  
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150"'>
 
