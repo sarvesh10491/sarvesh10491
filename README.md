@@ -13,11 +13,11 @@ No Activity tracked this Week
   <code><img title="C++" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/c++.jpg"></code>
   <code><img title="Python" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/python.jpg"></code>
   <code><img title="Java" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/java.jpg"></code>
-  <code><img title="linux" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/linux.jpg"></code>
-  <code><img title="android" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/android.jpg"></code>
-  <code><img title="ubuntu" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/ubuntu.jpg"></code>
-  <code><img title="oracle" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/oracle.jpg"></code>
-  <code><img title="assembly" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/assembly.jpg"></code>
+  <code><img title="Linux" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/linux.jpg"></code>
+  <code><img title="Android" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/android.jpg"></code>
+  <code><img title="Ubuntu" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/ubuntu.jpg"></code>
+  <code><img title="Oracle" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/oracle.jpg"></code>
+  <code><img title="Assembly" height="25" src="https://github.com/sarvesh10491/sarvesh10491/blob/main/gitimgs/assembly.jpg"></code>
 </p>
 
 <p align="center">
