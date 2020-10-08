@@ -21,9 +21,9 @@ No Activity tracked this Week
 </p>
 
 <p align="center">
-<a href="https://twitter.com/sarvesh_spartan" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="sarvesh_spartan" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/sarvesh-patil-751252a6" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="sarvesh-patil-751252a6" height="50" width="50" /></a>
-<a href="https://instagram.com/sarvesh10491" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" alt="sarvesh10491" height="50" width="50" /></a>
+<a href="https://twitter.com/sarvesh_spartan" target="_blank"><img title="Twitter" align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="sarvesh_spartan" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/sarvesh-patil-751252a6" target="_blank"><img title="LinkedIn" align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="sarvesh-patil-751252a6" height="50" width="50" /></a>
+<a href="https://instagram.com/sarvesh10491" target="_blank"><img title="Instagram" align="center" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" alt="sarvesh10491" height="50" width="50" /></a>
 </p>
 
 <div align="center">
