@@ -3,7 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C          17 mins         ████████████████████░░░░░   80.45 % 
+Makefile   4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
 ```
 <!--END_SECTION:waka-->
 
