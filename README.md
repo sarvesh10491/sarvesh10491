@@ -3,9 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-INI     6 mins          ████████████░░░░░░░░░░░░░   47.63 % 
-Other   5 mins          █████████▓░░░░░░░░░░░░░░░   38.52 % 
-C       1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
