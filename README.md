@@ -3,7 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other       14 mins         ███████████████████████░░   91.89 % 
+NASM        44 mins         ██████████████████▒░░░░░░   73.47 % 
+Other       14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
 ```
 <!--END_SECTION:waka-->
 
