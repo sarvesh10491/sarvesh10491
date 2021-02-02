@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Perl   45 mins         ████████████████████████▓   99.00 % 
 ```
 <!--END_SECTION:waka-->
 
