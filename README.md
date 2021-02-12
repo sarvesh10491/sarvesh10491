@@ -3,9 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Batchfile   26 mins         ████████████████████░░░░░   80.57 % 
-XML         4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Perl        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
