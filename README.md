@@ -3,9 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Text        40 mins         ██████████████▓░░░░░░░░░░   58.62 % 
-Markdown    24 mins         █████████░░░░░░░░░░░░░░░░   35.49 % 
-Batchfile   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Text        9 mins          ████████████████████████▓   99.16 % 
 ```
 <!--END_SECTION:waka-->
 
