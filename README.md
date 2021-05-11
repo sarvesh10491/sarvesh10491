@@ -3,8 +3,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown    32 mins         ███████████████▓░░░░░░░░░   62.58 % 
-Batchfile   19 mins         █████████▒░░░░░░░░░░░░░░░   37.42 % 
+Python      5 hrs 15 mins   ███████████████████████▒░   93.60 % 
+Batchfile   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Bash        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 
