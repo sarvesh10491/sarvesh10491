@@ -3,8 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C      31 mins         ██████████████████░░░░░░░   71.94 % 
-Text   12 mins         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+PowerShell   48 mins         ████████████████████████▓   98.91 % 
 ```
 <!--END_SECTION:waka-->
 
