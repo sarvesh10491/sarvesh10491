@@ -3,7 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Perl        25 mins         ███████████████████████▒░   93.88 % 
+Python      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 <!--END_SECTION:waka-->
 
