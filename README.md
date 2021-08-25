@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Python   8 mins          ███████████████████████▓░   94.18 % 
 ```
 <!--END_SECTION:waka-->
 
