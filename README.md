@@ -3,8 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python      5 mins          ███████████████░░░░░░░░░░   60.61 % 
-Batchfile   3 mins          ██████████░░░░░░░░░░░░░░░   39.39 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
