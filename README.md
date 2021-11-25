@@ -3,8 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Batchfile   16 mins         ███████████████░░░░░░░░░░   60.20 % 
-Python      11 mins         ██████████░░░░░░░░░░░░░░░   39.80 % 
+Batchfile   16 mins         ██████████████▓░░░░░░░░░░   58.02 % 
+Python      11 mins         ██████████░░░░░░░░░░░░░░░   40.22 % 
 ```
 <!--END_SECTION:waka-->
 
