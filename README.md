@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Batchfile   16 mins         ███████████████████████▓░   94.14 % 
+
 ```
 <!--END_SECTION:waka-->
 
