@@ -3,8 +3,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 3 hrs 34 mins
-
 Python      2 hrs 47 mins   ███████████████████▒░░░░░   77.79 % 
 C           24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 Text        23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
