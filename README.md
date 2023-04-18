@@ -4,7 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python      9 mins          ██████████████▓░░░░░░░░░░   59.29 %
+Batchfile   4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+Other       2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
 ```
 
 <!--END_SECTION:waka-->
